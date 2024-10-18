@@ -1,4 +1,4 @@
-Hi 👋 just a little dev than make shitty game for fun
+Hi 👋 just a student than make little games for fun
 
 🐍 Python / Pygame / CTk
 
