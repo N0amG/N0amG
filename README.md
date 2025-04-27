@@ -1,8 +1,13 @@
 Hi 👋 I'm a junior fullstack developer
 
 ⚛️ React / Nextjs
+
+💻 Express / MongoDB
+
 💻 PHP/MySQL
+
 💻 HTML / CSS /Javascript
+
 🐍 Python / Pygame / CTk
 
 
