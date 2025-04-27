@@ -1,5 +1,8 @@
-Hi 👋 just a student than make little games for fun
+Hi 👋 I'm a junior fullstack developer
 
+⚛️ React / Nextjs
+💻 PHP/MySQL
+💻 HTML / CSS /Javascript
 🐍 Python / Pygame / CTk
 
 
