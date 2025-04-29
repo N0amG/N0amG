@@ -1,4 +1,6 @@
-Hi 👋 I'm a junior fullstack developer :
+Hi 👋 I'm a junior fullstack developer.
+
+Here is my portfolio : https://bit.ly/portfolio-noamguez
 
 ⚛️ React / Nextjs
 
