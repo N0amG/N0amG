@@ -4,15 +4,10 @@ Here is my portfolio : [noam-guez.com](https://noam-guez.com/ )
 
 ⚛️ React / Nextjs
 
-💻 Express / MongoDB
+💻 Express / MongoDB / NestJS
 
-💻 PHP/MySQL
+💻 PHP / MySQL / PostgreSQL / Sqlite
 
-💻 HTML / CSS /Javascript
+💻 HTML / CSS /Javascript / TailwindCSS
 
-🐍 Python / Pygame / CTk
-
-
-
-
-<img src="https://wakatime.com/share/@018edc57-be0b-4248-8f60-b4dd64a76148/45a3230b-aa9c-4744-a43b-3c068da202e9.svg"></img>
+🐍 Python / Django / Pygame / CTk
