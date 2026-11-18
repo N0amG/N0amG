@@ -20,7 +20,7 @@ Je travaille en freelance et je suis toujours partant pour une nouvelle mission.
 
 <div align="center">
 
-<img src="assets/orbit-stack.svg" alt="Stack : React, Next.js, Node.js, Express, NestJS, Python, Django, PHP, MongoDB, PostgreSQL, MySQL, SQLite" width="820"/>
+<img src="assets/orbit-stack.svg" alt="Stack : React, Next.js, Node.js, Express, NestJS, Python, Django, PHP, MongoDB, PostgreSQL, MySQL, SQLite" width="100%"/>
 
 </div>
 
