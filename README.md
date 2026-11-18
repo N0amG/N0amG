@@ -29,14 +29,6 @@ Je travaille en freelance et je suis toujours partant pour une nouvelle mission.
 
 </div>
 
-### 🚀 Missions récentes
-
-| Mission | Carburant |
-| --- | --- |
-| [**Portfolio**](https://github.com/N0amG/Portfolio) : mon site, [noamguez.fr](https://noamguez.fr) | TypeScript · Next.js |
-| [**Multiplayer_Pong**](https://github.com/N0amG/Multiplayer_Pong) : Pong multijoueur | TypeScript |
-| [**space_invaders**](https://github.com/N0amG/space_invaders) : les envahisseurs de l'espace | Python |
-
 <div align="center">
 
 <sub>✦ *per aspera ad astra* ✦</sub>
