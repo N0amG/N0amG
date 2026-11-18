@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="assets/banner.svg" alt="Noam Guez, développeur fullstack freelance" width="100%"/>
-<!-- <br/><br/>-->
-
-<!-- <img src="assets/blackhole-ascii.svg" alt="Trou noir animé en ASCII art" width="560"/> -->
 
 <br/><br/>
 
@@ -26,6 +23,10 @@ Je travaille en freelance et je suis toujours partant pour une nouvelle mission.
 <img src="assets/orbit-stack.svg" alt="Stack : React, Next.js, Node.js, Express, NestJS, Python, Django, PHP, MongoDB, PostgreSQL, MySQL, SQLite" width="820"/>
 
 </div>
+
+<br/>
+<img src="assets/blackhole-ascii.svg" alt="Trou noir animé en ASCII art" width="100%"/>
+<br/>
 
 <div align="center">
 
