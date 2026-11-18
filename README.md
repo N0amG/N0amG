@@ -7,7 +7,7 @@
 
 <img src="assets/blackhole-ascii.svg" alt="Trou noir animé en ASCII art" width="560"/>
 
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-noamguez.fr-7c3aed?style=for-the-badge&labelColor=0b0f2a)](https://noamguez.fr)
 [![Lab](https://img.shields.io/badge/LAB-lab.noamguez.fr-0ea5e9?style=for-the-badge&labelColor=0b0f2a)](https://lab.noamguez.fr)
