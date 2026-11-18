@@ -37,15 +37,7 @@ Je travaille en freelance et je suis toujours partant pour une nouvelle mission.
 | [**Multiplayer_Pong**](https://github.com/N0amG/Multiplayer_Pong) : Pong multijoueur | TypeScript |
 | [**space_invaders**](https://github.com/N0amG/space_invaders) : les envahisseurs de l'espace | Python |
 
-### 🌌 Un serpent dans la Voie lactée
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N0amG/N0amG/output/snake-space-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N0amG/N0amG/output/snake-space-light.svg"/>
-  <img alt="Graphique de contributions : un serpent dévore les étoiles" src="https://raw.githubusercontent.com/N0amG/N0amG/output/snake-space-dark.svg"/>
-</picture>
 
 <sub>✦ *per aspera ad astra* ✦</sub>
 
