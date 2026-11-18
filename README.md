@@ -2,10 +2,10 @@
 
 <img src="assets/banner.svg" alt="Noam Guez, développeur fullstack freelance" width="100%"/>
 
-<br/><br/>
+<!-- <br/><br/>-->
 
 
-<img src="assets/blackhole-ascii.svg" alt="Trou noir animé en ASCII art" width="560"/>
+<!-- <img src="assets/blackhole-ascii.svg" alt="Trou noir animé en ASCII art" width="560"/> -->
 
 <br/><br/>
 
