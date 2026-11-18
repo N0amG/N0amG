@@ -1,6 +1,6 @@
 Hi 👋 I'm a junior fullstack developer.
 
-Here is my portfolio : [noam-guez.com](https://noam-guez.com/ )
+Here is my portfolio : [noam-guez.com](https://noamguez.fr/ )
 
 ⚛️ React / Nextjs
 
