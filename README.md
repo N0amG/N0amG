@@ -25,7 +25,7 @@ Je travaille en freelance et je suis toujours partant pour une nouvelle mission.
 </div>
 
 <br/>
-<img src="assets/blackhole-ascii.svg" alt="Trou noir animé en ASCII art" width="100%"/>
+<img src="assets/blackhole-ascii.svg?v=2" alt="Trou noir animé en ASCII art" width="100%"/>
 <br/>
 
 <div align="center">
