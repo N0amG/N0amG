@@ -27,6 +27,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-space-dark.svg?color_snake=%23ffd166&color_dots=%2312163a,%232b3a8f,%235a6ee0,%23a78bfa,%23f0abfc&color_dot_border=%230d1117
+            dist/snake-space-light.svg?color_snake=%23ff7a1a&color_dots=%23ebeeff,%23b8c0ff,%238c97f5,%236a5cf0,%234a2fd1&color_dot_border=%23ffffff
           
           
       - name: push github-contribution-grid-snake.svg to the output branch
